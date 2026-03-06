@@ -1,0 +1,6 @@
+logs/
+*.log
+*.gz
+node_modules/
+target/
+.cache/
